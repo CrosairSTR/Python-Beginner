@@ -14,3 +14,12 @@ print("Hello World!!")
 
 ## Keep in Mind
    1. Python executes code in order
+
+### Code Example --
+```python
+print("    /|")
+print("   / |")
+print("  /  |")
+print(" /   |")
+print("/____|")
+```
