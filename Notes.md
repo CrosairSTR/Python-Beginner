@@ -10,4 +10,4 @@ print("")
 print("Hello World!!")
 ```
 ### Output --
-![Output#1]( "Logo Title Text 1")
+![Output#1](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-1.PNG "Logo Title Text 1")
