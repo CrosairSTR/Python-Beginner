@@ -108,7 +108,7 @@ print("But didn't like being " + age + ".")
      Ex: decimal_number = 50.67895
 
 ### Boolean Values
-   + It is either True or False.
+   + It is either True or False.  
      Ex: is_male = True  
         OR  
      Ex: is_male = False
