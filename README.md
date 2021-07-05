@@ -147,3 +147,13 @@ print("\"Hello\"World\"")
 ### Output --
 
 ![Output#8](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-8.PNG "Output 8")
+
+### Code Example [Concatenation of Strings]
+```python
+greeting = "Hello"
+
+print(greeting + " Sahaya" + " Noel")
+```
+
+### Output --
+![Output#9](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-9.PNG "Output 9")
