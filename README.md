@@ -26,3 +26,15 @@ print("/____|")
 ### Output --
 ![Output#2](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-2.PNG "Output 2")
 
+### Code Example --
+```python
+print("/____|")
+print("    /|")
+print("   / |")
+print("  /  |")
+print(" /   |")
+```
+
+### Output --
+![Output#3](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-3.PNG "Output 3")
+

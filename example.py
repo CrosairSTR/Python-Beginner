@@ -1,5 +1,5 @@
+print("/____|")
 print("    /|")
 print("   / |")
 print("  /  |")
 print(" /   |")
-print("/____|")
