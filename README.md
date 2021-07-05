@@ -123,3 +123,17 @@ print("But didn't like being " + age + ".")
        is_male = True  
        is_male = False
        ```
+
+# Working With Strings
+
+## Newline Character
+   * The Newline Character is '\n'
+
+### Code Example --
+
+```python
+print("Hello\nWorld")
+```
+
+### Output -- 
+![Output#7](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-7.PNG "Output 7")
