@@ -41,9 +41,13 @@ print(" /   |")
 # Variables and data Types
 ## Naming Convention
    1. Starts with Lowercase  
+      ```
       Ex: Name
+      ```
    2. If there are 2 or more words, The words are seperated with underscore [_]  
+      ```
       Ex: character_name
+      ```
 
 ## Advantages
    1. Variables have to be defined just once and can be used multiple times.
@@ -99,15 +103,23 @@ print("But didn't like being " + age + ".")
 ## Different Types
 ### String
    + It starts and ends with quotation marks [""]  
+       ```
        Ex: name = "Tom"
+       ```
 
 ### Numbers
    + It doesn't need quotation marks  
+       ```
        Ex: age = 50
+       ```
    + We can also define decimal numbers as  
+       ```
        Ex: decimal_number = 50.67895
+       ```
 
 ### Boolean Values
    + It is either True or False.  
+       ```
        Ex#1: is_male = True  
        Ex#2: is_male = False
+       ```
