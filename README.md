@@ -42,7 +42,7 @@ print(" /   |")
 ## Naming Convention
    1. Starts with Lowercase  
       ``` python
-      Name
+      name
       ```
    2. If there are 2 or more words, The words are seperated with underscore [_]  
       ```python
