@@ -139,7 +139,7 @@ print("Hello\nWorld")
 ### Output -- 
 ![Output#7](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-7.PNG "Output 7")
 
-### Code Example [The escape character [\] and using it to insert a double quote without python yelling at us]
+### Code Example [insert a double quote without python yelling at us]
 
 ``` python
 print("\"Hello\"World\"")
