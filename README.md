@@ -40,9 +40,9 @@ print(" /   |")
 
 # Variables and data Types
 ## Naming Convention
-   1. Starts with Lowercase
+   1. Starts with Lowercase  
       Ex: Name
-   2. If there are 2 or more words, The words are seperated with underscore [_]
+   2. If there are 2 or more words, The words are seperated with underscore [_]  
       Ex: character_name
 
 ## Advantages
