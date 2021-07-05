@@ -98,17 +98,17 @@ print("But didn't like being " + age + ".")
 
 ## Different Types
 ### String
-   +It starts and ends with quotation marks [""]
+   + It starts and ends with quotation marks [""]
      Ex: name = "Tom"
 
 ### Numbers
-   +It doesn't need quotation marks
+   + It doesn't need quotation marks
      Ex: age = 50
-   +We can also define decimal numbers as
+   + We can also define decimal numbers as
      Ex: decimal_number = 50.67895
 
 ### Boolean Values
-   +It is either True or False.
+   + It is either True or False.
      Ex: is_male = True  
         OR  
      Ex: is_male = False
