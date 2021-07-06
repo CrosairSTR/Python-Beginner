@@ -176,3 +176,17 @@ print(greeting.upper())
 
 ### Output --
 ![Output#11](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-11.PNG "Output 11")
+
+### Code Example [Checking if a string is lower or upper case] --
+```python
+greeting = "Hello"
+
+print(greeting.isupper()) # Prints boolean value. Value is False as "Hello" is not totally uppercase
+
+print(greeting.islower()) # Prints False again as 'greeting is not totally lowercase'
+
+print(greeting.upper().isupper()) # Using two string methods at the same time. Prints 'True'
+```
+
+### Output --
+![Output#12](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-12.PNG "Output 12")
