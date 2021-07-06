@@ -154,6 +154,25 @@ greeting = "Hello"
 
 print(greeting + " Sahaya" + " Noel")
 ```
-
 ### Output --
 ![Output#9](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-9.PNG "Output 9")
+
+### Code Example [Making string Lowercase] --
+```python
+greeting = "Hello"
+
+print(greeting.lower())
+```
+
+### Output --
+![Output#10](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-10.PNG "Output 10")
+
+### Code Example [Making string Uppercase] --
+```python
+greeting = "Hello"
+
+print(greeting.upper())
+```
+
+### Output --
+![Output#11](https://github.com/coder-sahaya-noel/Python-Beginner/blob/main/images/Output-11.PNG "Output 11")
